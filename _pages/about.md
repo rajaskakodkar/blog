@@ -4,10 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+![rajas](../images/rajas.png)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am Rajas Kakodkar. 
 
+BE '19 @ [PCCE](https://pccegoa.edu.in/).
 
+Software Enginner @ [Persistent Systems](https://twitter.com/Persistentsys). 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am currently working on Linux, DevOps, CI/CD, Kubernetes, Docker and golang. I am also passionate about Deep Learning and Software programming in general. 
+
+I got hooked onto Deep Learning after attending the amazing [fastai](https://www.fast.ai/) course online. I have done a couple of projects in Deep Learning which I plan to post here.
