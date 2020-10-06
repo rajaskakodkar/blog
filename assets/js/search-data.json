@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": ". I am Rajas Kakodkar. . BE ‘19 @ PCCE. . Software Enginner @ Persistent Systems. . I am currently working on Linux, DevOps, CI/CD, Kubernetes, Docker and golang. I am also passionate about Deep Learning and Software programming in general. . I got hooked onto Deep Learning after attending the amazing fastai course online. I have done a couple of projects in Deep Learning which I plan to post here. .",
+          "content": ". I am Rajas Kakodkar. . BE ‘19 @ PCCE. . Software Enginner @ Persistent Systems. . Currently my work revolves around Linux, Docker Containers, CI/CD Pipelines and Kubernetes. I am also passionate about Deep Learning and Software Programming in general. .",
           "url": "https://rajaskakodkar.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
