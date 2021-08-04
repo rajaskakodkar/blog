@@ -1,1 +1,1 @@
-Sitemap: http://rajaskakodkar.dev/blog/sitemap.xml
+Sitemap: http://rajaskakodkar.dev/sitemap.xml
