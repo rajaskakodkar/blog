@@ -1,3 +1,10 @@
+---
+layout: page
+title: Talks
+permalink: /talks/
+---
+
+
 # Talks
 
 ## 2022
