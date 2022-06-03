@@ -18,7 +18,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": ". Hey there! :wave:, I am Rajas Kakodkar. . I am a random Software Enginner. My current employer is VMware where I work on Tanzu Kubernetes Grid. I actively contrbute to Kubernetes most recently helping maintain networkpolicy tests. In the past I have worked at Persistent Systems. I also hold interest in Deep Learning particularly in fastai. . I work remotely from Goa, India. When I am not coding, I am a foodie, a car enthusiast and a guitarist! . I am known as rajaskakodkar on Twitter, Github and LinkedIn. I reply to @rajas on kubernetes slack. The best way to reach out to me is to drop an email at hello@rajaskakodkar.dev. .",
+          "content": ". Hey there! :wave:, I am Rajas Kakodkar. . I am a random Software Enginner. My current employer is VMware where I work on Tanzu Framework. I am actively involved in the Kube Proxy Next Gen working group in the Kubernetes ecosystem. I also contribute to the Kubernetes project in Special Interest Groups like Testing and Network. In the past I have worked at Persistent Systems. I also hold interest in Deep Learning particularly in fastai. . I work remotely from Goa, India. When I am not coding, I am a foodie, a car enthusiast and a guitarist! . I am known as rajaskakodkar on Twitter, Github and LinkedIn. I reply to @rajas on kubernetes slack. The best way to reach out to me is to drop an email at hello@rajaskakodkar.dev. .",
           "url": "http://rajaskakodkar.dev/about/",
           "relUrl": "/about/",
           "date": ""
