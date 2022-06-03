@@ -4,9 +4,6 @@ title: Talks
 permalink: /talks/
 ---
 
-
-# Talks
-
 ## 2022
 
 ### Adding a backend to Next Generation Kube Proxy (KPNG)
